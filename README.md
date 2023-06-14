@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinav4450
 - 👀 I’m interested in Software Developmet
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++ programs
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me-> abhinavagnihotri4450@gmail.com
 
 <!---
