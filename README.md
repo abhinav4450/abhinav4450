@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @abhinav4450
-- 👀 I’m interested in Software Developmet
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Software Development.
+- 👀 Skills in HTML, CSS , JavaScript , NodeJs, ExpressJS, EJS, Bootstraps, etc.
 - 💞️ I’m looking to collaborate on Web Development projects.
+- 
 - 📫 How to reach me-> abhinavagnihotri4450@gmail.com
 
 <!---
