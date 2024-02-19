@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 👀 Skills in HTML, CSS , JavaScript , NodeJs, ExpressJS, EJS, Bootstraps, etc.
 - 💞️ I’m looking to collaborate on Web Development projects.
-- 📫 How to reach me-> abhinavagnihotri4450@gmail.com
+- 📫 How to reach me-> abhinavagnihotri.ab@gmail.com
 
 <!---
 abhinav4450/abhinav4450 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
